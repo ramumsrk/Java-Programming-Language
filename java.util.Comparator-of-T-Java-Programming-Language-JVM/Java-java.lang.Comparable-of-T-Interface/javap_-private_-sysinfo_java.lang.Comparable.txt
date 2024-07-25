@@ -1,0 +1,7 @@
+Classfile jrt:/java.base/java/lang/Comparable.class
+  Last modified 23-Apr-2024; size 235 bytes
+  SHA-256 checksum bb5e0abaea98768e89616fe4c5308bd4dbe81f39698822d94c5daf7277faa1aa
+  Compiled from "Comparable.java"
+public interface java.lang.Comparable<T> {
+  public abstract int compareTo(T);
+}
